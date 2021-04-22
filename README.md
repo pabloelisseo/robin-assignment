@@ -17,4 +17,3 @@ Antes de ejecutar este script, es necesario lanzar el servicio de mongoDB con el
 
 La segunda tarea, por comodidad y posibilidad de explicar paso a paso, ha sido desarrollada en el fichero `models.ipynb`. El cual es un Jupyter Notebook en el que se ha realizado una comparacion de 4 modelos en el intento de prediccion de marca para una descripcion de articulo dado.
 
-Este proceso ha sido realizado de forma analoga para predecir el marketplace en el fichero `models2.ipynb`.
